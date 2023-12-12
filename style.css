@@ -1,0 +1,28 @@
+@import "https://unpkg.com/open-props";
+@import "https://unpkg.com/open-props/normalize.min.css";
+@import "https://unpkg.com/open-props/buttons.min.css";
+
+body {
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  padding: 1rem 2rem 3rem 2rem;
+}
+
+.container {
+  padding: 0 auto;
+  margin: 2rem;
+  /* border: 1px solid grey; */
+}
+
+button {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+ul {
+  padding: 1rem;
+  list-style: none;
+}
