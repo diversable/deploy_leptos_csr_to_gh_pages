@@ -1,1 +1,0 @@
-/home/danamantei/Desktop/justfile
